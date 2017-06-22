@@ -1,0 +1,17 @@
+{
+  "name": "naffiqTestBot",
+  "version": "1.0.0",
+  "description": "Telegram bot for test purposes",
+  "main": "index.js",
+  "repository": "https://github.com/naffiq/naffiqTestBot",
+  "author": "naffiq@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mongodb": "^2.2.29",
+    "node-telegram-bot-api": "^0.27.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
